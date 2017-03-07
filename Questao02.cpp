@@ -18,7 +18,6 @@ int main(){
     int entrada, aux;
     int c = 0;
     aux= numAleatorio();
-    cout<< numAleatorio();
     cout<< "Adivinhe o numero entre 1 e 100 \n";
     cout<<"Insira a primeira tentativa: ";
     cin>>entrada;
